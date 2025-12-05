@@ -1,1 +1,1 @@
-i am sreekanth the software developer and sde with strong knowledge in c,c++,python and java 
+i am sreekanth a DevOps Engineer with Data Analysis skills strong in both devops and data skills 
