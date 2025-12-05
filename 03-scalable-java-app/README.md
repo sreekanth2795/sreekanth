@@ -7,7 +7,7 @@
 
 Refer the following document for the step by step project walkthrough.
 
-**Project Documentation:** [Deploy Scalable Java Applications on AWS Using Terraform](https://devopscube.com/deploy-java-applications-aws-autoscaling/)
+
 
 ## Java Application
 
