@@ -6,7 +6,6 @@
 
  If you want to practically learn service discovery, I suggest you set up Nginx load balancing using consul service discovery setup manually and learn all the components and workflows involved in it.
  
- **Checkout the Prctical Guide:** [Service Discovery Example Using Consul & Nginx](https://devopscube.com/service-discovery-example/) 
 
 ## Automation Prerequisites
 
